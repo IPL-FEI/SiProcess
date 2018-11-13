@@ -15,7 +15,6 @@ function pca_walk(data, K1, P1, dim, n)
     media = mean(data);
     p = 3; passo = 1;
     vetor = {};
-    figure(2)
     for i = 1:n
         for j = -p:passo:p
             yy = media' + (j*sqrt(K1(i,:))).*P1(:,i); 
@@ -23,6 +22,15 @@ function pca_walk(data, K1, P1, dim, n)
             vetor = [vetor, yy];
         end
     end
-    montage(vetor, colormap(gray(256)), 'Size', [n 7], 'ThumbnailSize', [1200 NaN]);
-end
+%========================MATLAB 2018==========================
+%     montage(vetor, colormap(gray(256)), 'Size', [n 7], 'ThumbnailSize',
+%     [1200 NaN]);
+%=============================================================
 
+%========================MATLAB 2015==========================
+        newimage = reshape(vetor, [7 n]);
+        newimage = cell2mat(newimage');   
+        figure()
+        imshow(newimage(:, :, 1), [0 80])
+%=============================================================
+end

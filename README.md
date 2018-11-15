@@ -1,6 +1,6 @@
 # SiProcess
 
-This is our lab repository
+This is our lab repository. Here you will find some Python/Matlab algorithms to linearly classify your data.
 
 ## Authors
 

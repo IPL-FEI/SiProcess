@@ -2,7 +2,11 @@
 
 This is our lab repository. Here you will find some Python/Matlab algorithms to linearly classify your data.
 
+#### MLDA_walk
+#### PCA_walk
+
 ## Authors
+
 
 * **Carlos Thomaz** 
 * **Pedro Orona** 

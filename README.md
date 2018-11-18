@@ -26,7 +26,7 @@ Some features avaliable on the repository are
 - Eng. Pedro Orona
 - MSc. Estela Ribeiro
 - MSc. Rafael Nobre
-- MSC. Laercio Junior
+- MSc. Laercio Junior
 - MSc. Víctor Varela
 - Lucas Buzuti
 - Lucas Carlini

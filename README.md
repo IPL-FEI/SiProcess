@@ -4,7 +4,7 @@ SiProcess is the Image Processing Laboratory repository. Here you will find some
 
 ### Classification
 
-The classification code import your data (a matrix of your vectorized images), make a dimensionality reduction using PCA and separate the examples using LDA/MLDA. 
+The classification code import your data (a matrix of your vectorized images), make a dimensionality reduction using [PCA](PCA) and separate the examples using [LDA](LDA)/[MLDA](MLDA). 
 
 #### Visualization
 

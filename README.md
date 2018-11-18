@@ -22,12 +22,12 @@ Some features avaliable on the repository are
 ### Authors
 
 
-- Dr.Carlos Thomaz
-- Pedro Orona
-- MSc.Estela Ribeiro
-- MSc.Rafael Nobre
-- MSC.Laercio Junior
-- MSc.Víctor Varela
+- Prof. Dr. Carlos Thomaz
+- Eng. Pedro Orona
+- MSc. Estela Ribeiro
+- MSc. Rafael Nobre
+- MSC. Laercio Junior
+- MSc. Víctor Varela
 - Lucas Buzuti
 - Lucas Carlini
 

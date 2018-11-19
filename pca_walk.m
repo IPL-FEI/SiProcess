@@ -30,7 +30,7 @@ function pca_walk(data, K1, P1, dim, n)
 %========================MATLAB 2015==========================
         newimage = reshape(vetor, [7 n]);
         newimage = cell2mat(newimage');   
-        figure()
+        figure('Name','PCA_WALK')
         imshow(newimage(:, :, 1), [0 80])
 %=============================================================
 end
